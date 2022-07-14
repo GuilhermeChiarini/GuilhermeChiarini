@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuilhermeChiarini
 - 👀 I’m interested in Developer new challenges
-- 🌱 I’m currently learning Harbour
+- 🌱 I’m currently learning Harbour, JavaScript, CSS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
